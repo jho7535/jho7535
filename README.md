@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&sectir&text=Welcome%20my%20Github&animation=twinkling&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&sectir&text=Welcome%20my%20Github&animation=twinkling&fontSize=65&height=200)
 
 <!--
 **jho7535/jho7535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
